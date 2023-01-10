@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! My name is Panagiotis and I like to build things for the web.<br>I am 29 years old and I currently live on a Greek island called Lesvos, looking to get in the web industry. <br>I will be able to relocate in any major city to work on site even if remote is an option, since my main goal right now is to learn and get hands on experience. <br>I am mostly interested in front end development, but I am also able work with back end technologies.
+Hey! My name is Panagiotis and I like to build things for the web.
 
 
 ## 🌐 Socials:
