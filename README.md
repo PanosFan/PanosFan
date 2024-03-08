@@ -42,5 +42,3 @@ Hey! My name is Panagiotis and I like to build things for the web.
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%231A2B34.svg?style=for-the-badge&logo=prettier&logoColor=%23F7B93E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![](https://visitcount.itsvg.in/api?id=PanosFan&icon=0&color=0)](https://visitcount.itsvg.in)
