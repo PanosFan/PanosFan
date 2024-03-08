@@ -4,8 +4,8 @@ Hey! My name is Panagiotis and I like to build things for the web.
 
 # 📫 Contact Me:
 
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/panagiotis-f-76241b236/)
+- Email: panfanartzis@gmail.com
+- LinkedIn: [Panagiotis Fanartzis](https://www.linkedin.com/in/panagiotis-f-76241b236/)
 
 # 💻 Tech Stack:
 
