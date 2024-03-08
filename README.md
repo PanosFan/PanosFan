@@ -47,6 +47,4 @@ Hey! My name is Panagiotis and I like to build things for the web.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
 [![](https://visitcount.itsvg.in/api?id=PanosFan&icon=0&color=0)](https://visitcount.itsvg.in)
