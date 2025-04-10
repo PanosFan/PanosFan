@@ -46,3 +46,5 @@ Hey! My name is Panagiotis and I like to build things for the web.
 ![Prettier](https://img.shields.io/badge/prettier-%231A2B34.svg?style=for-the-badge&logo=prettier&logoColor=%23F7B93E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Husky](https://img.shields.io/badge/husky-%23000000.svg?style=for-the-badge&logo=husky&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/supertest-%23000000.svg?style=for-the-badge&logo=supertest&logoColor=white)
