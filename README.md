@@ -43,7 +43,11 @@ Hey! My name is Panagiotis and I like to build things for the web.
 ## Tools
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%231A2B34.svg?style=for-the-badge&logo=prettier&logoColor=%23F7B93E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Husky](https://img.shields.io/badge/husky-%23000000.svg?style=for-the-badge&logo=husky&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+
+## ORM
+
+![Mongoose](https://img.shields.io/badge/Mongoose-%2300f.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2300f.svg?style=for-the-badge&logo=sequelize&logoColor=white)
