@@ -1,10 +1,14 @@
 # 💫 About Me:
 
-Hey! My name is Panagiotis and I like to build things for the web.
+Hey! I am Panagiotis, a fullstack engineer who enjoys building clean and fast products for the web.
+
+Currently focusing on React, Next.js, and Node.js with a growing interest in Python.
 
 # 📫 Contact Me:
 
-- Email: panfanartzis@gmail.com
+- Email: [panfanartzis@gmail.com](mailto:panfanartzis@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/panagiotis-f-76241b236/
+
 
 # 💻 Tech Stack:
 
