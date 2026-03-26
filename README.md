@@ -7,7 +7,7 @@ Currently focusing on React, Next.js, and Node.js with a growing interest in Pyt
 # 📫 Contact Me:
 
 - Email: [panfanartzis@gmail.com](mailto:panfanartzis@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/panagiotis-f-76241b236/
+- LinkedIn: [panagiotis-f-76241b236](https://www.linkedin.com/in/panagiotis-f-76241b236/)
 
 
 # 💻 Tech Stack:
